@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" role="img" aria-labelledby="nw-corner-markers-title nw-corner-markers-desc" color="#171717">
+  <title id="nw-corner-markers-title">Corner frame</title>
+  <desc id="nw-corner-markers-desc">Four technical corner brackets and a central registration dot.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" font-family="'Courier New', monospace">
+<g class="corner-top-left"><path d="M 8 32 V 8 H 32"/></g><g class="corner-top-right"><path d="M 208 8 H 232 V 32"/></g><g class="corner-bottom-left"><path d="M 8 128 V 152 H 32"/></g><g class="corner-bottom-right"><path d="M 208 152 H 232 V 128"/></g><line x1="116" y1="8" x2="124" y2="8" /><line x1="116" y1="152" x2="124" y2="152" /><circle cx="120" cy="80" r="2" fill="currentColor" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,416 @@
+{
+  "name": "Nuwanga Technology SVG Pack",
+  "version": "1.0.0",
+  "technologyCount": 32,
+  "individualSvgCount": 64,
+  "ink": "#171717",
+  "previewBackground": "#ececeb",
+  "assets": [
+    {
+      "slug": "python",
+      "label": "Python",
+      "category": "Programming",
+      "kind": "source-logo",
+      "icon": "icons/python.svg",
+      "badge": "badges/python.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg",
+        "sha": "30587d8164a94862e28dac7c0f44578934294769",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "typescript",
+      "label": "TypeScript",
+      "category": "Programming",
+      "kind": "source-logo",
+      "icon": "icons/typescript.svg",
+      "badge": "badges/typescript.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg",
+        "sha": "e8beb74031a01496105f342895f9ee8c39c38b49",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "react",
+      "label": "React",
+      "category": "Applications",
+      "kind": "source-logo",
+      "icon": "icons/react.svg",
+      "badge": "badges/react.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg",
+        "sha": "60069956389076bff0f26062b0007a88865249a5",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "fastapi",
+      "label": "FastAPI",
+      "category": "Applications",
+      "kind": "source-logo",
+      "icon": "icons/fastapi.svg",
+      "badge": "badges/fastapi.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/fastapi.svg",
+        "sha": "ba6ba86ab82c108aad4259a9548494796345bcce",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "flask",
+      "label": "Flask",
+      "category": "Applications",
+      "kind": "source-logo",
+      "icon": "icons/flask.svg",
+      "badge": "badges/flask.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/flask.svg",
+        "sha": "12d49ab5549b02c04bebfc4faab400600c1a476f",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "streamlit",
+      "label": "Streamlit",
+      "category": "Applications",
+      "kind": "source-logo",
+      "icon": "icons/streamlit.svg",
+      "badge": "badges/streamlit.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/streamlit.svg",
+        "sha": "b0f70fcae93c744bf9030ff9048e7972e7777be4",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "langchain",
+      "label": "LangChain",
+      "category": "Agentic AI",
+      "kind": "source-logo",
+      "icon": "icons/langchain.svg",
+      "badge": "badges/langchain.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/langchain.svg",
+        "sha": "3edb272b018ab9c8f69f3b67821188c3e46c55c0",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "langgraph",
+      "label": "LangGraph",
+      "category": "Agentic AI",
+      "kind": "source-logo",
+      "icon": "icons/langgraph.svg",
+      "badge": "badges/langgraph.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/langgraph.svg",
+        "sha": "c03343d264cf9707aaa10e78a4eead01648aaa24",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "langsmith",
+      "label": "LangSmith",
+      "category": "Agentic AI",
+      "kind": "typographic-label",
+      "icon": "icons/langsmith.svg",
+      "badge": "badges/langsmith.svg",
+      "source": {
+        "provider": "original typography / generic graphic"
+      }
+    },
+    {
+      "slug": "huggingface",
+      "label": "Hugging Face",
+      "category": "Agentic AI",
+      "kind": "source-logo",
+      "icon": "icons/huggingface.svg",
+      "badge": "badges/huggingface.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/huggingface.svg",
+        "sha": "dd2db93b2dedc1d3f707871676828afc281dfb0b",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "nvidia",
+      "label": "NVIDIA",
+      "category": "Agentic AI",
+      "kind": "source-logo",
+      "icon": "icons/nvidia.svg",
+      "badge": "badges/nvidia.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/nvidia.svg",
+        "sha": "2c7ff66f8b1f04c24df0d4653f665cd97a228c92",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "weaviate",
+      "label": "Weaviate",
+      "category": "Retrieval",
+      "kind": "typographic-label",
+      "icon": "icons/weaviate.svg",
+      "badge": "badges/weaviate.svg",
+      "source": {
+        "provider": "original typography / generic graphic"
+      }
+    },
+    {
+      "slug": "chroma",
+      "label": "ChromaDB",
+      "category": "Retrieval",
+      "kind": "typographic-label",
+      "icon": "icons/chroma.svg",
+      "badge": "badges/chroma.svg",
+      "source": {
+        "provider": "original typography / generic graphic"
+      }
+    },
+    {
+      "slug": "postgresql",
+      "label": "PostgreSQL",
+      "category": "Data",
+      "kind": "source-logo",
+      "icon": "icons/postgresql.svg",
+      "badge": "badges/postgresql.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/postgresql.svg",
+        "sha": "dcf75b726dee7a67e7d4a4b6067991d7d15c2f02",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "mysql",
+      "label": "MySQL",
+      "category": "Data",
+      "kind": "source-logo",
+      "icon": "icons/mysql.svg",
+      "badge": "badges/mysql.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg",
+        "sha": "195caada065db12d587e291d220daa8f19149492",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "snowflake",
+      "label": "Snowflake",
+      "category": "Data",
+      "kind": "source-logo",
+      "icon": "icons/snowflake.svg",
+      "badge": "badges/snowflake.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/snowflake.svg",
+        "sha": "27742797ea973f9412f103f738a387f658e8b952",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "sqlalchemy",
+      "label": "SQLAlchemy",
+      "category": "Data",
+      "kind": "source-logo",
+      "icon": "icons/sqlalchemy.svg",
+      "badge": "badges/sqlalchemy.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlalchemy.svg",
+        "sha": "83c5965852d3a2c826201b7640908a5a3d0448e4",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "sql",
+      "label": "SQL",
+      "category": "Data",
+      "kind": "generic-symbol",
+      "icon": "icons/sql.svg",
+      "badge": "badges/sql.svg",
+      "source": {
+        "provider": "original typography / generic graphic"
+      }
+    },
+    {
+      "slug": "docker",
+      "label": "Docker",
+      "category": "Cloud & MLOps",
+      "kind": "source-logo",
+      "icon": "icons/docker.svg",
+      "badge": "badges/docker.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg",
+        "sha": "0021a8a7b34c50389e48d7035b19067f2d909fe3",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "amazonaws",
+      "label": "AWS",
+      "category": "Cloud & MLOps",
+      "kind": "source-logo",
+      "icon": "icons/amazonaws.svg",
+      "badge": "badges/amazonaws.svg",
+      "source": {
+        "url": "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+        "sha": "39f9762a217d2cfce3b7e69f9b9add67597a2bf4",
+        "provider": "devicon"
+      }
+    },
+    {
+      "slug": "googlecloud",
+      "label": "Google Cloud",
+      "category": "Cloud & MLOps",
+      "kind": "source-logo",
+      "icon": "icons/googlecloud.svg",
+      "badge": "badges/googlecloud.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/googlecloud.svg",
+        "sha": "b7b4dcc060d5c1f24b94d50352084a44e8696faa",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "git",
+      "label": "Git",
+      "category": "Development",
+      "kind": "source-logo",
+      "icon": "icons/git.svg",
+      "badge": "badges/git.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg",
+        "sha": "06fb4e0d9884ae6891e506395fbed2f1bbd07c9c",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "githubactions",
+      "label": "GitHub Actions",
+      "category": "Development",
+      "kind": "source-logo",
+      "icon": "icons/githubactions.svg",
+      "badge": "badges/githubactions.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/githubactions.svg",
+        "sha": "bc925a351eb6fa2bb0f73a1192c8656db13eb2d3",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "kubernetes",
+      "label": "Kubernetes",
+      "category": "Cloud & MLOps",
+      "kind": "source-logo",
+      "icon": "icons/kubernetes.svg",
+      "badge": "badges/kubernetes.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg",
+        "sha": "667f2d4725da2500e450a93bbb1d5f9d73dddaa4",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "mlflow",
+      "label": "MLflow",
+      "category": "Observability",
+      "kind": "source-logo",
+      "icon": "icons/mlflow.svg",
+      "badge": "badges/mlflow.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/mlflow.svg",
+        "sha": "b44c2eea9a2e8c196d3e690d2e683001248034d5",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "prometheus",
+      "label": "Prometheus",
+      "category": "Observability",
+      "kind": "source-logo",
+      "icon": "icons/prometheus.svg",
+      "badge": "badges/prometheus.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/prometheus.svg",
+        "sha": "32a30255d6992471235663bd187cfc692de1b158",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "grafana",
+      "label": "Grafana",
+      "category": "Observability",
+      "kind": "source-logo",
+      "icon": "icons/grafana.svg",
+      "badge": "badges/grafana.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/grafana.svg",
+        "sha": "a495a662508df1a41d39a6dcf7ed5b84b9deff39",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "apacheairflow",
+      "label": "Apache Airflow",
+      "category": "Pipelines",
+      "kind": "source-logo",
+      "icon": "icons/apacheairflow.svg",
+      "badge": "badges/apacheairflow.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheairflow.svg",
+        "sha": "8cc4ad0c53446ee957ad38689a9655c40c122421",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "pandas",
+      "label": "Pandas",
+      "category": "ML & Analytics",
+      "kind": "source-logo",
+      "icon": "icons/pandas.svg",
+      "badge": "badges/pandas.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/pandas.svg",
+        "sha": "1b55566f36fd4b45f558f9f960979755439a2a19",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "scikitlearn",
+      "label": "scikit-learn",
+      "category": "ML & Analytics",
+      "kind": "source-logo",
+      "icon": "icons/scikitlearn.svg",
+      "badge": "badges/scikitlearn.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/scikitlearn.svg",
+        "sha": "016b48365ae8b5c5d74e3768a3f553bc1245f1ad",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "opencv",
+      "label": "OpenCV",
+      "category": "ML & Analytics",
+      "kind": "source-logo",
+      "icon": "icons/opencv.svg",
+      "badge": "badges/opencv.svg",
+      "source": {
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/opencv.svg",
+        "sha": "b10543e1ff5979a58b7fba5671000e1194218a6f",
+        "provider": "simple-icons"
+      }
+    },
+    {
+      "slug": "powerbi",
+      "label": "Power BI",
+      "category": "ML & Analytics",
+      "kind": "typographic-label",
+      "icon": "icons/powerbi.svg",
+      "badge": "badges/powerbi.svg",
+      "source": {
+        "provider": "original typography / generic graphic"
+      }
+    }
+  ]
+}

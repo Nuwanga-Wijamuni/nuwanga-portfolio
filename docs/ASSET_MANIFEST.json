@@ -1,0 +1,670 @@
+{
+  "name": "Nuwanga portfolio website assets",
+  "version": "1.0.0",
+  "assetCount": 90,
+  "totalWebsiteAssetBytes": 2241844,
+  "assets": [
+    {
+      "file": "public/Nuwanga_Wijamuni_AIEngineer.pdf",
+      "websiteUrl": "/Nuwanga_Wijamuni_AIEngineer.pdf",
+      "bytes": 88375,
+      "sha256": "53c08b64498fb5d7a20e96733ff477be7bbb6746842e18aebfcbc03fcf05a741",
+      "source": "upload/Nuwanga Wijamuni AIEngineer.pdf"
+    },
+    {
+      "file": "public/assets/graphics/ai-workflow.svg",
+      "websiteUrl": "/assets/graphics/ai-workflow.svg",
+      "bytes": 2810,
+      "sha256": "ee752b258cc3cedcf9e584679438e3ea01572fe3254dbe07bc3f662fd4231836",
+      "source": "portfolio-svg-assets/svg/ai-workflow.svg"
+    },
+    {
+      "file": "public/assets/graphics/barcode-strip.svg",
+      "websiteUrl": "/assets/graphics/barcode-strip.svg",
+      "bytes": 6317,
+      "sha256": "7298e75e3083eed251c37364d73d14887f66ccca3ad55f563eb40cee79949bbd",
+      "source": "portfolio-svg-assets/svg/barcode-strip.svg"
+    },
+    {
+      "file": "public/assets/graphics/binary-matrix.svg",
+      "websiteUrl": "/assets/graphics/binary-matrix.svg",
+      "bytes": 4521,
+      "sha256": "df92d107a15f3a53d57c783cf174cd0b3cdf1a6769348c9805a3dba8149c4f74",
+      "source": "portfolio-svg-assets/svg/binary-matrix.svg"
+    },
+    {
+      "file": "public/assets/graphics/branch-workflow.svg",
+      "websiteUrl": "/assets/graphics/branch-workflow.svg",
+      "bytes": 1558,
+      "sha256": "74703dcc424df43584afd1f8581bd8378ec42c8dabb5c8560f3db38d471813af",
+      "source": "portfolio-svg-assets/svg/branch-workflow.svg"
+    },
+    {
+      "file": "public/assets/graphics/circuit-orbit.svg",
+      "websiteUrl": "/assets/graphics/circuit-orbit.svg",
+      "bytes": 1818,
+      "sha256": "d198df7f33c8def88f2ed61a4255e17e575206b8a25990ebdd5704c702f4569f",
+      "source": "portfolio-svg-assets/svg/circuit-orbit.svg"
+    },
+    {
+      "file": "public/assets/graphics/compass-ring.svg",
+      "websiteUrl": "/assets/graphics/compass-ring.svg",
+      "bytes": 1096,
+      "sha256": "44b78a1ba6f0c711481b872317f0b3a0664178e5aa40a07f4bb97abfac903aa9",
+      "source": "portfolio-svg-assets/svg/compass-ring.svg"
+    },
+    {
+      "file": "public/assets/graphics/corner-markers.svg",
+      "websiteUrl": "/assets/graphics/corner-markers.svg",
+      "bytes": 907,
+      "sha256": "2a9be54fd647558fba1c9998bd351840756ac4f76ca4e403852bf71d4aebafef",
+      "source": "portfolio-svg-assets/svg/corner-markers.svg"
+    },
+    {
+      "file": "public/assets/graphics/crosshair.svg",
+      "websiteUrl": "/assets/graphics/crosshair.svg",
+      "bytes": 628,
+      "sha256": "92abcffe1dccfc6e4fb227cb00a748edc71b5b4147612c1c96a0bcc3871ea883",
+      "source": "portfolio-svg-assets/svg/crosshair.svg"
+    },
+    {
+      "file": "public/assets/graphics/distribution-bars.svg",
+      "websiteUrl": "/assets/graphics/distribution-bars.svg",
+      "bytes": 2338,
+      "sha256": "16b59e3597cba490472486d984871d0236b23f31da14c356ed8c2c8a059d5bfc",
+      "source": "portfolio-svg-assets/svg/distribution-bars.svg"
+    },
+    {
+      "file": "public/assets/graphics/dot-grid.svg",
+      "websiteUrl": "/assets/graphics/dot-grid.svg",
+      "bytes": 4778,
+      "sha256": "39b7dbe8a1c672b5b5651cd7cb4cdc1fc4b444cddc964a954a699216bc850640",
+      "source": "portfolio-svg-assets/svg/dot-grid.svg"
+    },
+    {
+      "file": "public/assets/graphics/globe.svg",
+      "websiteUrl": "/assets/graphics/globe.svg",
+      "bytes": 662,
+      "sha256": "b087ecd8f21cc4c422c5269f989209a4a8a2d586ca31091380d6825d987049eb",
+      "source": "portfolio-svg-assets/svg/globe.svg"
+    },
+    {
+      "file": "public/assets/graphics/linear-gauge.svg",
+      "websiteUrl": "/assets/graphics/linear-gauge.svg",
+      "bytes": 1596,
+      "sha256": "df47d2e4cc8f2599466e734d652e0bfba53e95291495fd62852985bf6f394085",
+      "source": "portfolio-svg-assets/svg/linear-gauge.svg"
+    },
+    {
+      "file": "public/assets/graphics/measurement-ruler.svg",
+      "websiteUrl": "/assets/graphics/measurement-ruler.svg",
+      "bytes": 2575,
+      "sha256": "4938b34069269d107240da72629e0712ed75dd8d2a7adc215b5585ed4fe6d918",
+      "source": "portfolio-svg-assets/svg/measurement-ruler.svg"
+    },
+    {
+      "file": "public/assets/graphics/orbit-rings.svg",
+      "websiteUrl": "/assets/graphics/orbit-rings.svg",
+      "bytes": 1052,
+      "sha256": "420f5d06cfeff844479f5fb0e336de9eac46491a7399e955016e66558db6674a",
+      "source": "portfolio-svg-assets/svg/orbit-rings.svg"
+    },
+    {
+      "file": "public/assets/graphics/output-pill.svg",
+      "websiteUrl": "/assets/graphics/output-pill.svg",
+      "bytes": 645,
+      "sha256": "5845f808c121748c8e5fbd948ef7c1e3da795d2079baa56514a5d6df094a4053",
+      "source": "portfolio-svg-assets/svg/output-pill.svg"
+    },
+    {
+      "file": "public/assets/graphics/radial-gauge.svg",
+      "websiteUrl": "/assets/graphics/radial-gauge.svg",
+      "bytes": 3164,
+      "sha256": "e0fc285bd5017c68110ed44a2d7f0c032924cf845554572288a838c09c87b683",
+      "source": "portfolio-svg-assets/svg/radial-gauge.svg"
+    },
+    {
+      "file": "public/assets/graphics/retrieval-network.svg",
+      "websiteUrl": "/assets/graphics/retrieval-network.svg",
+      "bytes": 2078,
+      "sha256": "66cd7e59c1384fd68441c7a6c78c7426c5a59db0cdc3183c692b1424861d1eca",
+      "source": "portfolio-svg-assets/svg/retrieval-network.svg"
+    },
+    {
+      "file": "public/assets/portrait.png",
+      "websiteUrl": "/assets/portrait.png",
+      "bytes": 309796,
+      "sha256": "ac149d59ce9c36f6acc4365d30cd33318c2425b32455010074ae0bec7c4cfad3",
+      "source": "upload/Nuwanga(1).png",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/portrait.webp",
+      "websiteUrl": "/assets/portrait.webp",
+      "bytes": 516718,
+      "sha256": "0081ce379c69ac288b5fbdade012a34e7d9f4de42350cc8dd0b9f23e74311ad5",
+      "source": "upload/Nuwanga(1).png",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/stickers/agent-network.png",
+      "websiteUrl": "/assets/stickers/agent-network.png",
+      "bytes": 88514,
+      "sha256": "878f27723c0f2e78696b173c08abbf72bbbe887019e6978a9d2abc1c673c4839",
+      "source": "portfolio-holographic-artwork/png/agent-network.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/stickers/agent-network.webp",
+      "websiteUrl": "/assets/stickers/agent-network.webp",
+      "bytes": 233012,
+      "sha256": "306501622c04742f1bc105572daee44dcd7599e3ddcbe379ea42babfbdaf98fc",
+      "source": "portfolio-holographic-artwork/png/agent-network.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/stickers/ai-brain.png",
+      "websiteUrl": "/assets/stickers/ai-brain.png",
+      "bytes": 119609,
+      "sha256": "01523a0cdf4842f6b06abbbd213fee1c332fc1899d402a25c32dc0f9a9ce0c3a",
+      "source": "portfolio-holographic-artwork/png/ai-brain.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/stickers/ai-brain.webp",
+      "websiteUrl": "/assets/stickers/ai-brain.webp",
+      "bytes": 351924,
+      "sha256": "a5a3ff94f90f1ac8fb4ed096481a78666c4b6ebd08a56ead7c7d11f600033bff",
+      "source": "portfolio-holographic-artwork/png/ai-brain.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/stickers/cloud.png",
+      "websiteUrl": "/assets/stickers/cloud.png",
+      "bytes": 84086,
+      "sha256": "d67287cc2dda6f3bb0cbf5e1efb7694710cad96739ba4a8efb01c56293084cba",
+      "source": "portfolio-holographic-artwork/png/cloud.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/stickers/cloud.webp",
+      "websiteUrl": "/assets/stickers/cloud.webp",
+      "bytes": 222022,
+      "sha256": "9a1c01aa530d39c42a44e7322789fdb2e5ba90faf7e3c6055ba28980cf94a5c2",
+      "source": "portfolio-holographic-artwork/png/cloud.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "transformation": "Resized without cropping; aspect ratio preserved; encoded losslessly."
+    },
+    {
+      "file": "public/assets/technologies/badges/amazonaws.svg",
+      "websiteUrl": "/assets/technologies/badges/amazonaws.svg",
+      "bytes": 6083,
+      "sha256": "33890483dde507ae8b4388517ced62e079a08bafb4edb110f2af4fbadca31136",
+      "source": "portfolio-technology-svg-pack/badges/amazonaws.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/apacheairflow.svg",
+      "websiteUrl": "/assets/technologies/badges/apacheairflow.svg",
+      "bytes": 4565,
+      "sha256": "df37d135b97b1183630d8530f83b902deaf6d277af418aedfd4de0cbe131df35",
+      "source": "portfolio-technology-svg-pack/badges/apacheairflow.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/chroma.svg",
+      "websiteUrl": "/assets/technologies/badges/chroma.svg",
+      "bytes": 2487,
+      "sha256": "b9a81d02026baf019b33c1a98c8cd02fa5428586f68ed52f7a21db1c88e2d139",
+      "source": "portfolio-technology-svg-pack/badges/chroma.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/docker.svg",
+      "websiteUrl": "/assets/technologies/badges/docker.svg",
+      "bytes": 4013,
+      "sha256": "82c920855a80b7520282d17bf557513ac2e27efcb8de5171515e8135f67d348b",
+      "source": "portfolio-technology-svg-pack/badges/docker.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/fastapi.svg",
+      "websiteUrl": "/assets/technologies/badges/fastapi.svg",
+      "bytes": 2600,
+      "sha256": "ac01759b058d355ffea2cb6ad76e72ce32faf0eb0505f4b36094934196e81d9d",
+      "source": "portfolio-technology-svg-pack/badges/fastapi.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/flask.svg",
+      "websiteUrl": "/assets/technologies/badges/flask.svg",
+      "bytes": 3084,
+      "sha256": "6500e754e6e39ca7beabecc27ecc4c672304588d5c08010d8a8a21081c900840",
+      "source": "portfolio-technology-svg-pack/badges/flask.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/git.svg",
+      "websiteUrl": "/assets/technologies/badges/git.svg",
+      "bytes": 2638,
+      "sha256": "7d785094fa7e7176aed4d10f4a21c8a7e7f9876773c837c949eb5d328039c172",
+      "source": "portfolio-technology-svg-pack/badges/git.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/githubactions.svg",
+      "websiteUrl": "/assets/technologies/badges/githubactions.svg",
+      "bytes": 4041,
+      "sha256": "42b0565707b6ac481d4dca123ba3c82b6ed6bda01a209368a71cbc21f912096d",
+      "source": "portfolio-technology-svg-pack/badges/githubactions.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/googlecloud.svg",
+      "websiteUrl": "/assets/technologies/badges/googlecloud.svg",
+      "bytes": 2983,
+      "sha256": "485d0143daf12d1c5637b9951c310409309eac85f38069a06db5728578c59c9d",
+      "source": "portfolio-technology-svg-pack/badges/googlecloud.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/grafana.svg",
+      "websiteUrl": "/assets/technologies/badges/grafana.svg",
+      "bytes": 6071,
+      "sha256": "c58ee1f12e1e4cb0e855700e6f63404bc179071f71114668914af25af3b93955",
+      "source": "portfolio-technology-svg-pack/badges/grafana.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/huggingface.svg",
+      "websiteUrl": "/assets/technologies/badges/huggingface.svg",
+      "bytes": 5320,
+      "sha256": "12c97835b737b66d69142df969f181edcfcbc60593679c1f8bf5f079ca8d14e1",
+      "source": "portfolio-technology-svg-pack/badges/huggingface.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/kubernetes.svg",
+      "websiteUrl": "/assets/technologies/badges/kubernetes.svg",
+      "bytes": 5853,
+      "sha256": "cefbd58a9edf89adfc1ed2d61a51fa7301df3d1f792a062348a49b2a54191c4c",
+      "source": "portfolio-technology-svg-pack/badges/kubernetes.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/langchain.svg",
+      "websiteUrl": "/assets/technologies/badges/langchain.svg",
+      "bytes": 2798,
+      "sha256": "05445f390db2494fa0bdfee9ac5c7f077dd425a0bb97be04c1c00d2cefb29296",
+      "source": "portfolio-technology-svg-pack/badges/langchain.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/langgraph.svg",
+      "websiteUrl": "/assets/technologies/badges/langgraph.svg",
+      "bytes": 2473,
+      "sha256": "49d87c8f92bd093da56758ebe5f08d48ba9bf87103d503d369fdc533adc1d54a",
+      "source": "portfolio-technology-svg-pack/badges/langgraph.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/langsmith.svg",
+      "websiteUrl": "/assets/technologies/badges/langsmith.svg",
+      "bytes": 2514,
+      "sha256": "937d1e19779207c43f42dcdd9b3d725ec88ff1190b5db58ad7669b1e2150b45c",
+      "source": "portfolio-technology-svg-pack/badges/langsmith.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/mlflow.svg",
+      "websiteUrl": "/assets/technologies/badges/mlflow.svg",
+      "bytes": 2597,
+      "sha256": "0d0db1b3e54d8c1941c670f46eb4c53e24f526936615c0b1860aee01c3e3260c",
+      "source": "portfolio-technology-svg-pack/badges/mlflow.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/mysql.svg",
+      "websiteUrl": "/assets/technologies/badges/mysql.svg",
+      "bytes": 5850,
+      "sha256": "4303e37d134814fcca680a09e477980fdc24f1e7d93f3672369a9f0f3494235d",
+      "source": "portfolio-technology-svg-pack/badges/mysql.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/nvidia.svg",
+      "websiteUrl": "/assets/technologies/badges/nvidia.svg",
+      "bytes": 3122,
+      "sha256": "56fabad2ef9220e94f66d82c7cda039312df2d2fedcf413e25e11a8b4a53a575",
+      "source": "portfolio-technology-svg-pack/badges/nvidia.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/opencv.svg",
+      "websiteUrl": "/assets/technologies/badges/opencv.svg",
+      "bytes": 3559,
+      "sha256": "99dd920381c8db9e785d11efe9b04aa6ae206b1414d4663f1513db9e29517190",
+      "source": "portfolio-technology-svg-pack/badges/opencv.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/pandas.svg",
+      "websiteUrl": "/assets/technologies/badges/pandas.svg",
+      "bytes": 2588,
+      "sha256": "be2610f75f67d1835bc82792fec907c6fd2f14e97fcae3a2b21b99c6c67466a0",
+      "source": "portfolio-technology-svg-pack/badges/pandas.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/postgresql.svg",
+      "websiteUrl": "/assets/technologies/badges/postgresql.svg",
+      "bytes": 7480,
+      "sha256": "c6e969a5a8ee43464cee59e1fe5dff44a9d950cee136b0eddc7e6981ad0c37e5",
+      "source": "portfolio-technology-svg-pack/badges/postgresql.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/powerbi.svg",
+      "websiteUrl": "/assets/technologies/badges/powerbi.svg",
+      "bytes": 2503,
+      "sha256": "fe90da11fca80d6fc34cfe6e22a779824711cc3dbdc9f73b9d17d0f4c98bdd4e",
+      "source": "portfolio-technology-svg-pack/badges/powerbi.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/prometheus.svg",
+      "websiteUrl": "/assets/technologies/badges/prometheus.svg",
+      "bytes": 3131,
+      "sha256": "4b81ea5a632970f2cfc511b14dc31add44ed1b63db4bbc72898be0a451bab714",
+      "source": "portfolio-technology-svg-pack/badges/prometheus.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/python.svg",
+      "websiteUrl": "/assets/technologies/badges/python.svg",
+      "bytes": 3760,
+      "sha256": "92f5abb0fb2ef6dfc5f13161de5268ec9cb6ff2d54187265340f28cdd674db4e",
+      "source": "portfolio-technology-svg-pack/badges/python.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/react.svg",
+      "websiteUrl": "/assets/technologies/badges/react.svg",
+      "bytes": 5159,
+      "sha256": "bbf8dd03e5735239a94b688de323519ecc3c2443dc7500493ccd4b9baa0eabd9",
+      "source": "portfolio-technology-svg-pack/badges/react.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/scikitlearn.svg",
+      "websiteUrl": "/assets/technologies/badges/scikitlearn.svg",
+      "bytes": 7241,
+      "sha256": "7564a624012715b75c204accec81ca30ab59d23d9ff12eb9161099414fbc8aa4",
+      "source": "portfolio-technology-svg-pack/badges/scikitlearn.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/snowflake.svg",
+      "websiteUrl": "/assets/technologies/badges/snowflake.svg",
+      "bytes": 4724,
+      "sha256": "dca6884b17512d3e8beb4f33facedb27b792ca2b545cdc4c1ef73e8b8d7672b1",
+      "source": "portfolio-technology-svg-pack/badges/snowflake.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/sql.svg",
+      "websiteUrl": "/assets/technologies/badges/sql.svg",
+      "bytes": 2380,
+      "sha256": "1519112b7deee26a45711f9da9b582330821bf112c856945a0dc77b3c31a8449",
+      "source": "portfolio-technology-svg-pack/badges/sql.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/sqlalchemy.svg",
+      "websiteUrl": "/assets/technologies/badges/sqlalchemy.svg",
+      "bytes": 4732,
+      "sha256": "6a3b2a9c777b8a75e10f05b6e45157dd40935192371cc0b6fa6c106caa46d3b4",
+      "source": "portfolio-technology-svg-pack/badges/sqlalchemy.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/streamlit.svg",
+      "websiteUrl": "/assets/technologies/badges/streamlit.svg",
+      "bytes": 2634,
+      "sha256": "ab14e9a8a8e2d11264b2bd9375edcffb1b30434a5cdee0f89106ba465d475663",
+      "source": "portfolio-technology-svg-pack/badges/streamlit.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/typescript.svg",
+      "websiteUrl": "/assets/technologies/badges/typescript.svg",
+      "bytes": 3576,
+      "sha256": "0591710e3a1949a0c9855f9bf334155d8e44342930372456bd8a984c78efc0ff",
+      "source": "portfolio-technology-svg-pack/badges/typescript.svg"
+    },
+    {
+      "file": "public/assets/technologies/badges/weaviate.svg",
+      "websiteUrl": "/assets/technologies/badges/weaviate.svg",
+      "bytes": 2502,
+      "sha256": "daa4d90f55f18d42cdc5e5928fb830bab693a9e9ebb0d8b61db85b971caf2ba0",
+      "source": "portfolio-technology-svg-pack/badges/weaviate.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/amazonaws.svg",
+      "websiteUrl": "/assets/technologies/icons/amazonaws.svg",
+      "bytes": 4176,
+      "sha256": "387343e495056204b6105f52f22ec2edb1fd7d6420461f3a068a33e616a6baf2",
+      "source": "portfolio-technology-svg-pack/icons/amazonaws.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/apacheairflow.svg",
+      "websiteUrl": "/assets/technologies/icons/apacheairflow.svg",
+      "bytes": 2639,
+      "sha256": "6f25d4532ada8346a52e3412e319dcf10f3f34d55ec61ed0098845470d5f6c00",
+      "source": "portfolio-technology-svg-pack/icons/apacheairflow.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/chroma.svg",
+      "websiteUrl": "/assets/technologies/icons/chroma.svg",
+      "bytes": 595,
+      "sha256": "f41e5dd32859be24fd091883f84454712116a9273f2421ae8c0728353f2149ca",
+      "source": "portfolio-technology-svg-pack/icons/chroma.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/docker.svg",
+      "websiteUrl": "/assets/technologies/icons/docker.svg",
+      "bytes": 2115,
+      "sha256": "0f7550ba15aaae32ad817ca838a90a6e645eb2c5dc2ec120458b489662c9d0a0",
+      "source": "portfolio-technology-svg-pack/icons/docker.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/fastapi.svg",
+      "websiteUrl": "/assets/technologies/icons/fastapi.svg",
+      "bytes": 702,
+      "sha256": "eca1ca5f0743a9a625b1efb32e3d827bf3f7532b9113f9fd4d285c3a1e8ff414",
+      "source": "portfolio-technology-svg-pack/icons/fastapi.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/flask.svg",
+      "websiteUrl": "/assets/technologies/icons/flask.svg",
+      "bytes": 1196,
+      "sha256": "def0a2e2052ccc4d7b553836f45851b55e1f5b647b8dd30e387ef86ab3e5b8ad",
+      "source": "portfolio-technology-svg-pack/icons/flask.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/git.svg",
+      "websiteUrl": "/assets/technologies/icons/git.svg",
+      "bytes": 761,
+      "sha256": "2e8906d6dd65715593d69857acc62202483e33ef082831164203ee311a0ecfd5",
+      "source": "portfolio-technology-svg-pack/icons/git.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/githubactions.svg",
+      "websiteUrl": "/assets/technologies/icons/githubactions.svg",
+      "bytes": 2113,
+      "sha256": "3d481304222ce1093c88cdd4f20c1fcab821d5cf86d0d6d16a9cc5c21364b5a0",
+      "source": "portfolio-technology-svg-pack/icons/githubactions.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/googlecloud.svg",
+      "websiteUrl": "/assets/technologies/icons/googlecloud.svg",
+      "bytes": 1059,
+      "sha256": "a286e6299693ec6a840d5c6835425c8cc06d98843445bf5842d25fbd73e27047",
+      "source": "portfolio-technology-svg-pack/icons/googlecloud.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/grafana.svg",
+      "websiteUrl": "/assets/technologies/icons/grafana.svg",
+      "bytes": 4172,
+      "sha256": "135cabd5bb9096b42089762e0d884103461943f1cca6b68e0834490134cc9b95",
+      "source": "portfolio-technology-svg-pack/icons/grafana.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/huggingface.svg",
+      "websiteUrl": "/assets/technologies/icons/huggingface.svg",
+      "bytes": 3403,
+      "sha256": "d81d1762e7d6e6b6a5b5a513d9ab0812e6244f4013448432046e5133861e8d66",
+      "source": "portfolio-technology-svg-pack/icons/huggingface.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/kubernetes.svg",
+      "websiteUrl": "/assets/technologies/icons/kubernetes.svg",
+      "bytes": 3935,
+      "sha256": "013855593ae2a361ee46c314a1e5844cc6885966dce5f1a743a80db804f0415e",
+      "source": "portfolio-technology-svg-pack/icons/kubernetes.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/langchain.svg",
+      "websiteUrl": "/assets/technologies/icons/langchain.svg",
+      "bytes": 892,
+      "sha256": "be9262ee97b3db3f04f8e57c7e63fc604a3762e6b7d3f2221130df6e17cee163",
+      "source": "portfolio-technology-svg-pack/icons/langchain.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/langgraph.svg",
+      "websiteUrl": "/assets/technologies/icons/langgraph.svg",
+      "bytes": 567,
+      "sha256": "d01930adacace92bf033ab760a965753db04832cf4d2de5d039c50c938f0c0d4",
+      "source": "portfolio-technology-svg-pack/icons/langgraph.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/langsmith.svg",
+      "websiteUrl": "/assets/technologies/icons/langsmith.svg",
+      "bytes": 608,
+      "sha256": "58eebe9364ba5039b97b93630b4087de02d00eb0edc76ab518bf2e69cbe11ef7",
+      "source": "portfolio-technology-svg-pack/icons/langsmith.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/mlflow.svg",
+      "websiteUrl": "/assets/technologies/icons/mlflow.svg",
+      "bytes": 703,
+      "sha256": "3ed15e3382ec519f318da72aaacf9fb6e8047b95b040ebdd2189844d0bb7ca5f",
+      "source": "portfolio-technology-svg-pack/icons/mlflow.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/mysql.svg",
+      "websiteUrl": "/assets/technologies/icons/mysql.svg",
+      "bytes": 3970,
+      "sha256": "63268ae80a152d33a145cca32d4765c0dd5bbba3883813f1317ab6237ebbae1f",
+      "source": "portfolio-technology-svg-pack/icons/mysql.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/nvidia.svg",
+      "websiteUrl": "/assets/technologies/icons/nvidia.svg",
+      "bytes": 1231,
+      "sha256": "1174902a7f860e1e0f010b95a13efad00262200cfac651970d304fbee669b465",
+      "source": "portfolio-technology-svg-pack/icons/nvidia.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/opencv.svg",
+      "websiteUrl": "/assets/technologies/icons/opencv.svg",
+      "bytes": 1660,
+      "sha256": "415949ed2fdfd3ad1eb11156d471bbaeba60496fea21d81f8a50917abc93ee0b",
+      "source": "portfolio-technology-svg-pack/icons/opencv.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/pandas.svg",
+      "websiteUrl": "/assets/technologies/icons/pandas.svg",
+      "bytes": 689,
+      "sha256": "3f87254ec265364b9fd369ab2505a1c795dfee22ef78cc80e2f2063891b1153e",
+      "source": "portfolio-technology-svg-pack/icons/pandas.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/postgresql.svg",
+      "websiteUrl": "/assets/technologies/icons/postgresql.svg",
+      "bytes": 5575,
+      "sha256": "f0edf189c001ccb3c9f43ac87247ceffe2ac2e0ca7d6e24bcc7bc1dfd5ad0ffa",
+      "source": "portfolio-technology-svg-pack/icons/postgresql.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/powerbi.svg",
+      "websiteUrl": "/assets/technologies/icons/powerbi.svg",
+      "bytes": 598,
+      "sha256": "42a8bfbb28b145a4ea9d2ab4caab1755cd31d8ff374f8a34979882f04829a713",
+      "source": "portfolio-technology-svg-pack/icons/powerbi.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/prometheus.svg",
+      "websiteUrl": "/assets/technologies/icons/prometheus.svg",
+      "bytes": 1217,
+      "sha256": "4fc04f1d3b7b9ba7b08087d3271b1bff71f817c5f70eac373e1ed47a3d122eea",
+      "source": "portfolio-technology-svg-pack/icons/prometheus.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/python.svg",
+      "websiteUrl": "/assets/technologies/icons/python.svg",
+      "bytes": 1868,
+      "sha256": "df299313ee2037f0425cb6f97e259b4236a953b5f31ededc062a044e36b69325",
+      "source": "portfolio-technology-svg-pack/icons/python.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/react.svg",
+      "websiteUrl": "/assets/technologies/icons/react.svg",
+      "bytes": 3271,
+      "sha256": "96254046cd963afbc16820259b6859c1c39443755bd64292ff1c794bc8a24606",
+      "source": "portfolio-technology-svg-pack/icons/react.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/scikitlearn.svg",
+      "websiteUrl": "/assets/technologies/icons/scikitlearn.svg",
+      "bytes": 5316,
+      "sha256": "f5d30f629da39d873c2125b70f47df4d5ea23c49eadbe17a4c4fdeca3ee71b90",
+      "source": "portfolio-technology-svg-pack/icons/scikitlearn.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/snowflake.svg",
+      "websiteUrl": "/assets/technologies/icons/snowflake.svg",
+      "bytes": 2824,
+      "sha256": "b485bfcb2973c07d1193d0b933c7efb0a4c6f6937b4cddd5a7d34a7a1ae27718",
+      "source": "portfolio-technology-svg-pack/icons/snowflake.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/sql.svg",
+      "websiteUrl": "/assets/technologies/icons/sql.svg",
+      "bytes": 510,
+      "sha256": "0085faa300ec1b27358d2db532fb5db2277a7539ac3fcf92ba3840be83b535ee",
+      "source": "portfolio-technology-svg-pack/icons/sql.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/sqlalchemy.svg",
+      "websiteUrl": "/assets/technologies/icons/sqlalchemy.svg",
+      "bytes": 2827,
+      "sha256": "aae67c0f3b1c25abce3c9b9b36cc7527b8321064c5719e7c26814c4ef3e0a81f",
+      "source": "portfolio-technology-svg-pack/icons/sqlalchemy.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/streamlit.svg",
+      "websiteUrl": "/assets/technologies/icons/streamlit.svg",
+      "bytes": 726,
+      "sha256": "18bd29c203223ce710f0fc0a0b999ac8ae3078e8b0ebae5e1ce6471bc293bd15",
+      "source": "portfolio-technology-svg-pack/icons/streamlit.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/typescript.svg",
+      "websiteUrl": "/assets/technologies/icons/typescript.svg",
+      "bytes": 1664,
+      "sha256": "8bf1db07efc23f65832e37d0bc68c089f5eafb9cc9620963e966d876aa689295",
+      "source": "portfolio-technology-svg-pack/icons/typescript.svg"
+    },
+    {
+      "file": "public/assets/technologies/icons/weaviate.svg",
+      "websiteUrl": "/assets/technologies/icons/weaviate.svg",
+      "bytes": 602,
+      "sha256": "5bebac4ba738ac8ef55837276a06ef92c5bebf60cb82a829647ac09d8aeb0310",
+      "source": "portfolio-technology-svg-pack/icons/weaviate.svg"
+    }
+  ]
+}

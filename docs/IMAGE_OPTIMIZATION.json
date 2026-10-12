@@ -1,0 +1,62 @@
+{
+  "tool": "sharp (preinstalled primary runtime)",
+  "process": "Resize with aspect ratio preserved and without enlargement, lossless WebP/PNG encoders, source inputs retained in source-assets.",
+  "assets": [
+    {
+      "asset": "public/assets/stickers/ai-brain.webp",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "bytes": 351924
+    },
+    {
+      "asset": "public/assets/stickers/ai-brain.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "bytes": 119609
+    },
+    {
+      "asset": "public/assets/stickers/cloud.webp",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "bytes": 222022
+    },
+    {
+      "asset": "public/assets/stickers/cloud.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "bytes": 84086
+    },
+    {
+      "asset": "public/assets/stickers/agent-network.webp",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "bytes": 233012
+    },
+    {
+      "asset": "public/assets/stickers/agent-network.png",
+      "width": 700,
+      "height": 700,
+      "hasAlpha": true,
+      "bytes": 88514
+    },
+    {
+      "asset": "public/assets/portrait.webp",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "bytes": 516718
+    },
+    {
+      "asset": "public/assets/portrait.png",
+      "width": 800,
+      "height": 800,
+      "hasAlpha": false,
+      "bytes": 309796
+    }
+  ]
+}

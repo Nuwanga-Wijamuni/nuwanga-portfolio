@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 46" width="120" height="46" role="img" aria-labelledby="nw-output-pill-title nw-output-pill-desc" color="#171717">
+  <title id="nw-output-pill-title">Output label</title>
+  <desc id="nw-output-pill-desc">Rounded technical label with OUTPUT text.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" font-family="'Courier New', monospace">
+<rect class="pill-outline" x="7" y="8" width="106" height="30" rx="15"/><text x="60" y="28" font-size="14" stroke="none" fill="currentColor" text-anchor="middle">OUTPUT</text>
+  </g>
+</svg>

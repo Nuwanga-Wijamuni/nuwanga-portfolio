@@ -1,0 +1,33 @@
+{
+  "name": "Nuwanga Portfolio Holographic Artwork",
+  "version": "1.0.0",
+  "assets": [
+    {
+      "name": "ai-brain",
+      "title": "AI brain",
+      "png": "png/ai-brain.png",
+      "webp": "webp/ai-brain.webp",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true
+    },
+    {
+      "name": "cloud",
+      "title": "Cloud computing",
+      "png": "png/cloud.png",
+      "webp": "webp/cloud.webp",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true
+    },
+    {
+      "name": "agent-network",
+      "title": "Agent network",
+      "png": "png/agent-network.png",
+      "webp": "webp/agent-network.webp",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true
+    }
+  ]
+}

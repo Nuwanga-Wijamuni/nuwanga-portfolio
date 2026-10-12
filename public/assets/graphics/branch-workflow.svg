@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 263" width="330" height="263" role="img" aria-labelledby="nw-branch-workflow-title nw-branch-workflow-desc" color="#171717">
+  <title id="nw-branch-workflow-title">Branch workflow</title>
+  <desc id="nw-branch-workflow-desc">Illustrative feature branch, evaluation, reviewed merge, and release. Not an actual repository history.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" font-family="'Courier New', monospace">
+<text x="10" y="18" font-size="10" stroke="none" fill="currentColor" >BRANCH WORKFLOW / ILLUSTRATIVE</text><line x1="55" y1="53" x2="55" y2="237" class="main-branch" stroke-width="2"/><path class="feature-branch" d="M 55 81 C 55 110 145 83 145 112 V 152 C 145 181 55 160 55 189"/><circle cx="55" cy="53" r="4" fill="#ececeb"/><circle cx="55" cy="81" r="4" fill="#ececeb"/><circle cx="145" cy="119" r="4" fill="#ececeb"/><circle cx="145" cy="152" r="4" fill="#ececeb"/><circle cx="55" cy="189" r="4" fill="#ececeb"/><circle cx="55" cy="237" r="4" fill="#ececeb"/><text x="74" y="57" font-size="12" stroke="none" fill="currentColor" >main</text><text x="166" y="122" font-size="11" stroke="none" fill="currentColor" >feature / retrieval</text><text x="166" y="156" font-size="11" stroke="none" fill="currentColor" >evaluate</text><text x="74" y="193" font-size="11" stroke="none" fill="currentColor" >review + merge</text><text x="74" y="241" font-size="11" stroke="none" fill="currentColor" >release</text>
+  </g>
+</svg>

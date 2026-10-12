@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-labelledby="nw-globe-title nw-globe-desc" color="#171717">
+  <title id="nw-globe-title">Wireframe globe</title>
+  <desc id="nw-globe-desc">Latitude and longitude lines inside a circular globe.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" font-family="'Courier New', monospace">
+<circle cx="60" cy="60" r="43" /><line x1="17" y1="60" x2="103" y2="60" /><ellipse cx="60" cy="60" rx="18" ry="43"/><ellipse cx="60" cy="60" rx="43" ry="17"/><line x1="60" y1="17" x2="60" y2="103" />
+  </g>
+</svg>

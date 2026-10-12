@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 154" width="220" height="154" role="img" aria-labelledby="nw-compass-ring-title nw-compass-ring-desc" color="#171717">
+  <title id="nw-compass-ring-title">Compass ring</title>
+  <desc id="nw-compass-ring-desc">Concentric circle compass with cardinal points and a north pointer.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" font-family="'Courier New', monospace">
+<circle cx="110" cy="70" r="48" /><circle cx="110" cy="70" r="31" /><line x1="110" y1="9" x2="110" y2="131" /><line x1="49" y1="70" x2="171" y2="70" /><path class="compass-pointer" d="M 110 22 L 121 81 L 110 70 L 99 81 Z" fill="currentColor"/><text x="110" y="8" font-size="9" stroke="none" fill="currentColor" text-anchor="middle">N</text><text x="181" y="73" font-size="9" stroke="none" fill="currentColor" >E</text><text x="110" y="143" font-size="9" stroke="none" fill="currentColor" text-anchor="middle">S</text><text x="32" y="73" font-size="9" stroke="none" fill="currentColor" >W</text>
+  </g>
+</svg>

@@ -1,0 +1,179 @@
+{
+  "name": "Nuwanga Portfolio SVG Assets",
+  "version": "1.0.0",
+  "count": 17,
+  "ink": "#171717",
+  "previewBackground": "#ececeb",
+  "assets": [
+    {
+      "file": "svg/crosshair.svg",
+      "name": "crosshair",
+      "title": "Registration crosshair",
+      "description": "Concentric target with four extended registration lines.",
+      "width": 96,
+      "height": 96,
+      "category": "Markers",
+      "decorative": true
+    },
+    {
+      "file": "svg/orbit-rings.svg",
+      "name": "orbit-rings",
+      "title": "Orbital circles",
+      "description": "Three concentric rings and rotating-orbit anchor points.",
+      "width": 220,
+      "height": 220,
+      "category": "Circles",
+      "decorative": true
+    },
+    {
+      "file": "svg/dot-grid.svg",
+      "name": "dot-grid",
+      "title": "Dot grid",
+      "description": "Eight by eight evenly spaced dots.",
+      "width": 124,
+      "height": 124,
+      "category": "Grids",
+      "decorative": true
+    },
+    {
+      "file": "svg/binary-matrix.svg",
+      "name": "binary-matrix",
+      "title": "Binary circle matrix",
+      "description": "Illustrative pattern of filled and empty circles. Decorative only.",
+      "width": 178,
+      "height": 156,
+      "category": "Grids",
+      "decorative": true
+    },
+    {
+      "file": "svg/globe.svg",
+      "name": "globe",
+      "title": "Wireframe globe",
+      "description": "Latitude and longitude lines inside a circular globe.",
+      "width": 120,
+      "height": 120,
+      "category": "Circles",
+      "decorative": true
+    },
+    {
+      "file": "svg/radial-gauge.svg",
+      "name": "radial-gauge",
+      "title": "Radial gauge",
+      "description": "Illustrative dial. Needle position is a visual example, not a performance measurement.",
+      "width": 220,
+      "height": 210,
+      "category": "Gauges",
+      "decorative": true
+    },
+    {
+      "file": "svg/linear-gauge.svg",
+      "name": "linear-gauge",
+      "title": "Linear signal gauge",
+      "description": "Illustrative 60 percent bar with a tick scale. Not live data.",
+      "width": 300,
+      "height": 102,
+      "category": "Gauges",
+      "decorative": true
+    },
+    {
+      "file": "svg/measurement-ruler.svg",
+      "name": "measurement-ruler",
+      "title": "Measurement ruler",
+      "description": "Thin scale with major and minor tick marks and a sample position pointer.",
+      "width": 400,
+      "height": 56,
+      "category": "Scales",
+      "decorative": true
+    },
+    {
+      "file": "svg/distribution-bars.svg",
+      "name": "distribution-bars",
+      "title": "Distribution bars",
+      "description": "Six illustrative bars. The lengths are decorative sample values, not portfolio metrics.",
+      "width": 310,
+      "height": 204,
+      "category": "Gauges",
+      "decorative": true
+    },
+    {
+      "file": "svg/barcode-strip.svg",
+      "name": "barcode-strip",
+      "title": "Technical stripe",
+      "description": "Decorative stripe motif inspired by barcode typography. Does not encode data.",
+      "width": 300,
+      "height": 62,
+      "category": "Patterns",
+      "decorative": true
+    },
+    {
+      "file": "svg/corner-markers.svg",
+      "name": "corner-markers",
+      "title": "Corner frame",
+      "description": "Four technical corner brackets and a central registration dot.",
+      "width": 240,
+      "height": 160,
+      "category": "Markers",
+      "decorative": true
+    },
+    {
+      "file": "svg/output-pill.svg",
+      "name": "output-pill",
+      "title": "Output label",
+      "description": "Rounded technical label with OUTPUT text.",
+      "width": 120,
+      "height": 46,
+      "category": "Labels",
+      "decorative": true
+    },
+    {
+      "file": "svg/ai-workflow.svg",
+      "name": "ai-workflow",
+      "title": "AI agent workflow",
+      "description": "Conceptual flow: input, retrieve, reason, human review, and action. Feedback returns to retrieval.",
+      "width": 700,
+      "height": 166,
+      "category": "Diagrams",
+      "decorative": false
+    },
+    {
+      "file": "svg/retrieval-network.svg",
+      "name": "retrieval-network",
+      "title": "Retrieval network",
+      "description": "Conceptual network of PDF and SQL sources, an index, a query, and an answer.",
+      "width": 480,
+      "height": 240,
+      "category": "Diagrams",
+      "decorative": false
+    },
+    {
+      "file": "svg/branch-workflow.svg",
+      "name": "branch-workflow",
+      "title": "Branch workflow",
+      "description": "Illustrative feature branch, evaluation, reviewed merge, and release. Not an actual repository history.",
+      "width": 330,
+      "height": 263,
+      "category": "Diagrams",
+      "decorative": false
+    },
+    {
+      "file": "svg/circuit-orbit.svg",
+      "name": "circuit-orbit",
+      "title": "AI circuit orbit",
+      "description": "AI chip surrounded by orbit dots and four connection anchors.",
+      "width": 260,
+      "height": 260,
+      "category": "Circles",
+      "decorative": true
+    },
+    {
+      "file": "svg/compass-ring.svg",
+      "name": "compass-ring",
+      "title": "Compass ring",
+      "description": "Concentric circle compass with cardinal points and a north pointer.",
+      "width": 220,
+      "height": 154,
+      "category": "Circles",
+      "decorative": true
+    }
+  ]
+}

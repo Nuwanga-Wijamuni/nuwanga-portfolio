@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220" role="img" aria-labelledby="nw-orbit-rings-title nw-orbit-rings-desc" color="#171717">
+  <title id="nw-orbit-rings-title">Orbital circles</title>
+  <desc id="nw-orbit-rings-desc">Three concentric rings and rotating-orbit anchor points.</desc>
+  <g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" font-family="'Courier New', monospace">
+<g class="orbit-rings"><circle cx="110" cy="110" r="82" /><circle cx="110" cy="110" r="59" /><circle cx="110" cy="110" r="35" /><ellipse cx="110" cy="110" rx="96" ry="34" transform="rotate(-28 110 110)"/><line x1="110" y1="9" x2="110" y2="23" /><line x1="110" y1="197" x2="110" y2="211" /><line x1="9" y1="110" x2="23" y2="110" /><line x1="197" y1="110" x2="211" y2="110" /></g><g class="orbit-nodes"><circle cx="182" cy="73" r="5" fill="currentColor"/><circle cx="48" cy="164" r="4" fill="currentColor"/><circle cx="110" cy="110" r="4" fill="currentColor"/></g>
+  </g>
+</svg>
